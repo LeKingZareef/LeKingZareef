@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zareef Soetodrono</h1>
 <div align="center">
-  <a href="https://www.linkedin.com/in/zareef-soeto/">
+  <a href="https://www.linkedin.com/in/zareef-soetodrono-256224197">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
