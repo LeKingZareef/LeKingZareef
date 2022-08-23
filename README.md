@@ -48,5 +48,5 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p float="left">
-<img src="https://github-readme-stats.vercel.app/api?username=LeKingZareef&show_icons=true&locale=en&theme=vision-friendly-dark&count_private=true" idth="450" />&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=LeKingZareef&show_icons=true&locale=en&theme=vision-friendly-dark&count_private=true" width="450" />&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeKingZareef&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" /></p>
